@@ -45,15 +45,18 @@ export default function Home() {
   return (
     <div className="container max-w-2xl mx-auto p-5">
       <Head>
-        <title>Replicate + Next.js</title>
+        <title>Sticker Maker</title>
       </Head>
 
-      <h1 className="py-6 text-center font-bold text-2xl">
+      <h1 className="py-3 text-center font-bold text-2xl">
         Dream something with{" "}
-        <a href="https://replicate.com/stability-ai/sdxl?utm_source=project&utm_project=getting-started">
-          SDXL
+        <a href="https://replicate.com/fofr/sticker-maker">
+          Sticker Maker 
         </a>
       </h1>
+      <h2 className="py-3 text-center font-bold text-xl">  
+          credits to <a href="https://github.com/fofr">fofr</a> and <a href="https://replicate.com/">Replicate</a>
+      </h2> 
 
       <form className="w-full flex" onSubmit={handleSubmit}>
         <input
