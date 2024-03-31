@@ -34,4 +34,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 
 For detailed instructions on how to create and use this template, see [replicate.com/docs/get-started/nextjs](https://replicate.com/docs/get-started/nextjs)
 
-<img width="707" alt="iguana" src="https://image.stickerai.net/sticker-ai.png">
+<img width="707" alt="iguana" src="https://image.stickerai.net/sticker-ai.png"> 
+by [Sticker AI](https://www.stickerai.net)
